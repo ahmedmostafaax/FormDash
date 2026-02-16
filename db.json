@@ -1,0 +1,56 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "name": "English",
+      "code": "en"
+    },
+    {
+      "id": "ar",
+      "name": "Arabic",
+      "code": "ar"
+    },
+    {
+      "id": "fr",
+      "name": "French",
+      "code": "fr"
+    },
+    {
+      "id": "gr",
+      "name": "Germany",
+      "code": "gr"
+    }
+  ],
+  "agents": [
+    {
+      "id": "1897",
+      "name": "arabic",
+      "language": "en"
+    },
+    {
+      "id": "dbfe",
+      "name": "arabic",
+      "language": "fr"
+    },
+    {
+      "id": "6f16",
+      "name": "aaa",
+      "description": "hhhh",
+      "callType": "outbound",
+      "language": "ar",
+      "voice": "",
+      "prompt": "",
+      "model": "",
+      "latency": 0.5,
+      "speed": 110,
+      "callScript": "",
+      "serviceDescription": "",
+      "attachments": [],
+      "tools": {
+        "allowHangUp": true,
+        "allowCallback": false,
+        "liveTransfer": false
+      }
+    }
+  ]
+}
